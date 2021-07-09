@@ -1,15 +1,14 @@
-
 // Widget ID
-export const WIDGET_ID = "widget_example";
+export const WIDGET_ID = 'widget_gestione_centraline';
 
 // Widget name
-export const WIDGET_NAME = "Esempio"
+export const WIDGET_NAME = 'Gestione Centraline';
 
 // Widget dimension
 export const isResizable = true;
-export const WIDGET_DEFAULT_DIMENSION =  { w: 6, h: 6 };
-export const WIDGET_MAX_DIMENSION =  { w: 4, h: 4 };
-export const WIDGET_MIN_DIMENSION =  { w: 1, h: 1 };
+export const WIDGET_DEFAULT_DIMENSION = { w: 4, h: 5 };
+export const WIDGET_MAX_DIMENSION = { w: 6, h: 6 };
+export const WIDGET_MIN_DIMENSION = { w: 4, h: 4 };
 
 // Author
-export const AUTHOR = "Mario Rossi";
+export const AUTHOR = 'Carmine Laudato';
