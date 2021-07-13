@@ -1,26 +1,6 @@
 
 
 <main>
-
-
-    <!-- ESEMPIO FUNZIONAMENTO ->  INIZIO -->
-    <!-- <Button class="primary-color" on:click={() => showError("Esempio di errore")}>
-        Mostra errore
-    </Button>
-
-    <Button class="primary-color" on:click={() => showMaintenance("Esempio di manutenzione")}>
-        Mostra manutenzione
-    </Button>
-
-    <Button class="primary-color" on:click={() => showLoading("Esempio di caricamento")}>
-        Mostra caricamento generale
-    </Button>
-
-    <Button class="primary-color" on:click={() => showProgressBar("Esempio di caricamento con barra", 75)}>
-        Mostra caricamento con barra
-    </Button>-->
-    <!-- ESEMPIO FUNZIONAMENTO ->  FINE -->
-
     
     <div class="form-style-2">
         <div class="form-style-2-heading">Inserisci una nuova centralina</div>
